@@ -1,0 +1,28 @@
+{
+  "The Beach.jpeg": {
+    "Waldo": {
+      "xmin": 582,
+      "xmax": 624,
+      "ymin": 384,
+      "ymax": 453
+    }
+  },
+
+  "The market.jpeg": {
+    "Wenda": {
+      "xmin": 579,
+      "xmax": 626,
+      "ymin": 278,
+      "ymax": 354
+    }
+  },
+
+  "The Medieval City.jpeg": {
+    "Odlaw": {
+      "xmin": 14,
+      "xmax": 84,
+      "ymin": 1149,
+      "ymax": 1273
+    }
+  }
+}
